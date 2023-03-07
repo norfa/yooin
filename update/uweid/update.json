@@ -1,0 +1,10 @@
+{
+    "version": "3.4.0",
+    "firmware": "3.1.0",
+    "touchpanel": "3.1.0",
+    "url": "http://w.yooin.cn",
+    "changelog": {
+        "en_US": "",
+        "zh_CN": "增加PrusaSlicer切片软件的SL1格式支持。\n增加均光模式，点击设置页面右上角均光按钮启用。\n增加机内切片打印SLC格式模型功能，支持抗锯齿。"
+    }
+}
