@@ -1,10 +1,10 @@
 {
-    "version": "3.4.1",
-    "firmware": "3.1.1",
+    "version": "3.4.2",
+    "firmware": "3.1.2",
     "touchpanel": "3.1.0",
     "url": "http://e.yooin.cn",
     "changelog": {
         "en_US": "",
-        "zh_CN": "增加PrusaSlicer切片软件的SL1格式支持。\n增加均光模式，点击设置页面右上角均光按钮启用。\n增加机内切片打印SLC格式模型功能，支持抗锯齿。"
+        "zh_CN": "修正打印过程中时间同步后，打印时间显示异常问题。\n增加PrusaSlicer切片软件的SL1格式支持。\n增加均光模式，点击设置页面右上角均光按钮启用。\n增加机内切片打印SLC格式模型功能，支持抗锯齿。"
     }
 }
