@@ -1,7 +1,7 @@
 {
-    "version": "3.5.6",
-    "firmware": "3.1.4",
-    "touchpanel": "3.1.0",
+    "version": "3.5.9",
+    "firmware": "3.1.5",
+    "touchpanel": "1.0.0",
     "url": "http://e.yooin.cn",
     "changelog": {
         "en_US": "",
